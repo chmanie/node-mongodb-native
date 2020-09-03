@@ -66,7 +66,7 @@
 , "devDependencies": {
       "dox": "0.2.0"
     , "uglify-js": "1.2.5"
-    , "ejs": "0.6.1"
+    , "ejs": "3.1.5"
     , "request": "2.12.0"
     , "nodeunit": "0.7.4"
 	  , "markdown": "0.3.1"
